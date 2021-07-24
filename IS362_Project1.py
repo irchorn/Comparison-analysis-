@@ -2,6 +2,9 @@
 # coding: utf-8
 
 # # IS 362 Project 1
+# Read information from .CSV file into pandas,
+# perform analysis to compare the arrival delays
+# for the two airlines.
 
 # In[ ]:
 
